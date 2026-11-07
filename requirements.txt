@@ -1,0 +1,6 @@
+# Web app (Streamlit Community Cloud installs this file)
+streamlit>=1.50
+tensorflow-cpu>=2.16
+numpy
+pillow
+matplotlib

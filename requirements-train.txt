@@ -1,0 +1,4 @@
+# Training + evaluation on your own machine. On Google Colab use the notebook.
+-r requirements.txt
+kagglehub>=0.3
+nltk
