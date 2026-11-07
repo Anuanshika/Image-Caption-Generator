@@ -69,8 +69,8 @@ Models of this size on Flickr8k usually land around BLEU-1 ≈ 0.55–0.65 and B
 
 | Decoding | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 |
 |---|---|---|---|---|
-| Greedy | – | – | – | – |
-| Beam (k=3) | – | – | – | – |
+| Greedy | 0.596 | 0.416 | 0.280 | 0.187 |
+| Beam (k=3) | 0.632 | 0.458 | 0.326 | 0.233 |
 
 ![Training curves](reports/training_curves.png)
 ![Examples](reports/examples.png)
