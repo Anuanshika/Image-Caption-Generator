@@ -1,0 +1,16 @@
+{
+  "img_size": 224,
+  "max_len": 30,
+  "vocab_size": 2639,
+  "num_regions": 49,
+  "feature_dim": 1280,
+  "d_model": 256,
+  "num_heads": 4,
+  "ff_dim": 512,
+  "num_layers": 2,
+  "dropout": 0.2,
+  "trained_with": {
+    "tensorflow": "2.21.0",
+    "keras": "3.13.2"
+  }
+}
