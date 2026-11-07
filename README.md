@@ -1,6 +1,6 @@
 # 🖼️ AI Image Caption Generator (CNN + Transformer)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/glassgotlazy/image-caption-generator/blob/main/notebooks/Train_on_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anuanshika/Image-Caption-Generator/blob/main/Train_on_Colab.ipynb)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-image-captioner.streamlit.app)
 
 A deep learning project that **looks at a photo and writes a sentence describing it**. A pretrained CNN understands the image, a Transformer decoder writes the caption word by word, and attention heatmaps show **where the model looked for each word**.
